@@ -1,9 +1,9 @@
 # -*- encoding: utf-8 -*-
 $:.push File.expand_path("../lib", __FILE__)
-require "railbone/version"
+require "bfec_generator/version"
 
 Gem::Specification.new do |s|
-  s.name        = "railbone"
+  s.name        = "bfec_generator"
   s.version     = Railbone::VERSION
   s.authors     = ["Chris Nelson"]
   s.email       = ["superchrisnelson@gmail.com"]
